@@ -1,0 +1,16 @@
+.blackColor{
+    color: black;
+}
+.redColor{
+    color: red;
+}
+
+.showDetail{
+  display: block;  
+}
+.hideDetail{
+  display: none;
+}
+.p{
+    color: blue;
+}

@@ -1,0 +1,50 @@
+.main{
+    /* background-color: blue; */
+    width: 100%;
+    height: 500px;
+    display: flex;
+    margin-top: 40px;
+}
+.foot-left{
+    /* background-color: red; */
+    width: 20%;
+    height: 500px;
+}
+.foot-right{
+    /* background-color: rgb(146, 20, 168); */
+    width: 20%;
+    height: 500px;
+}
+.container{
+    /* background-color: brown; */
+    width: 60%;
+    height: 500px;
+}
+.container-box1{
+    width: 100%;
+    height: 25%;
+    background-color: aqua;
+    display: flex;
+}
+.container-box2{
+    width: 100%;
+    height: 25%;
+    background-color: rgb(24, 58, 58);
+    display: flex;
+}
+.container-box3{
+    width: 100%;
+    height: 25%;
+    background-color: rgb(72, 20, 146);
+   display: flex;
+}
+.container-box1left{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(141, 153, 51);
+}
+.container-box1right{
+    width: 70%;
+    height: 100%;
+    background-color: rgb(69, 196, 19);
+}
